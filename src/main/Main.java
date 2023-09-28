@@ -8,6 +8,9 @@ public class Main {
 
 		PessoaController pessoaController = new PessoaController();
 		pessoaController.cadastrarPessoa();
+		pessoaController.consultarPessoa();
+
+		
 
 	}
 
